@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "ENGINE DIAGNOSTIC",
+        "price": 300,
+        "description": "You know you need to get your car fixed, but you dont want to spend any more money than necessary. No one blames you for that.",
+        "img": "https://i.ibb.co/cbcrV6X/img-1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "WHELL ALIGNMENT",
+        "price": 200,
+        "description": "You know you need to get your car fixed, but you dont want to spend any more money than necessary. No one blames you for that.",
+        "img": "https://i.ibb.co/wKDJz6r/img-2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "TAIRE REPEARING",
+        "price": 400,
+        "description": "You know you need to get your car fixed, but you dont want to spend any more money than necessary. No one blames you for that.",
+        "img": "https://i.ibb.co/smq1t2L/img-3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "CAR WASHING",
+        "price": 100,
+        "description": "You know you need to get your car fixed, but you dont want to spend any more money than necessary. No one blames you for that.",
+        "img": "https://i.ibb.co/BrCFR9F/img-4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "ENGINE REPEARING",
+        "price": 600,
+        "description": "You know you need to get your car fixed, but you dont want to spend any more money than necessary. No one blames you for that.",
+        "img": "https://i.ibb.co/TPY0qpd/img-5.jpg"
+    },
+    {
+        "id": 6,
+        "name": "ENGINE CLEANING",
+        "price": 200,
+        "description": "You know you need to get your car fixed, but you dont want to spend any more money than necessary. No one blames you for that.",
+        "img": "https://i.ibb.co/kSMq2rt/img-6.jpg"
+    }
+]

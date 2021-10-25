@@ -1,0 +1,10 @@
+.service{
+    padding: 20px;
+    background-color: azure;
+    border-radius: 20px;
+    box-shadow:5px 5px 10px 5px cadetblue;
+}
+.service img{
+    border-radius: 20px;
+
+}
